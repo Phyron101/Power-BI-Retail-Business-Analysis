@@ -14,3 +14,6 @@ Power BI, DAX
 
 
 <img width="1305" height="742" alt="Screenshot 2026-10-28 110746" src="https://github.com/user-attachments/assets/01acbbb0-9513-42d6-a878-1262a40aef27" />
+
+<img width="435" height="139" alt="image" src="https://github.com/user-attachments/assets/19cde478-bea7-46e2-9636-7aa8ff3321a9" />
+
